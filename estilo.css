@@ -507,6 +507,9 @@ label {
         margin: -4% 0 0 0;
         padding-bottom: 6%;
     }
+    #boxflag {
+        transform: translateY(0%);
+    }
 }
 
 @media all and (max-width: 960px) {
