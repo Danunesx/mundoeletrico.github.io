@@ -186,6 +186,7 @@ section {
     width: 110px;
     height: 60px;
     transform: translateY(-6%);
+    margin-bottom: -3%;
 }
 .containerleft {
     float: left;
