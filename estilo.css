@@ -184,9 +184,8 @@ section {
 }
 #boxflag {
     width: 110px;
-    height: 60px;
-    transform: translateY(-6%);
-    margin-bottom: -3%;
+    height: 50px;
+    transform: translateY(-12%);
 }
 .containerleft {
     float: left;
